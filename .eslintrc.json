@@ -23,7 +23,7 @@
   "rules": {
     "max-lines": [
       "error",
-      { "max": 300, "skipBlankLines": "true", "skipComments": true }
+      { "max": 300, "skipBlankLines": true, "skipComments": true }
     ],
     "prettier/prettier": "error",
     "react/react-in-jsx-scope": "off"
