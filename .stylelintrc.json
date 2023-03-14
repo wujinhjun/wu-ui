@@ -4,8 +4,7 @@
   "extends": [
     "stylelint-config-standard",
     "stylelint-config-standard-scss",
-    "stylelint-config-recess-order",
-    "stylelint-prettier/recommender"
+    "stylelint-config-recess-order"
   ],
 
   "rules": {
